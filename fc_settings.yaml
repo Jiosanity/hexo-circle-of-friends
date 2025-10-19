@@ -33,6 +33,8 @@ SETTINGS_FRIENDS_LINKS: {
     enable: false,
     json_api_or_path: "",
     list: [
+        ["贰猹の小窝", "https://noionion.top/", "https://pub-noionion.oss-cn-hangzhou.aliyuncs.com/head.jpg"],
+        ["Akilarの糖果屋", "https://akilar.top/", "https://akilar.top/images/headimage.png"],
         ["从良未遂", "https://www.jeffer.xyz/", "https://www.jeffer.xyz/wp-content/uploads/2023/01/cropped-2023010402181112.jpg"],
         ["Evan", "https://www.evan.xin/", "https://www.evan.xin/logo.png"],
         ["友人C", "https://www.ihewro.com", "https://www.ihewro.com/usr/uploads/time/67bad1fb8fe22.jpg"]
